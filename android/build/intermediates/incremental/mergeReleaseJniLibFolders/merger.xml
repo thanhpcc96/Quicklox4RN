@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/admin/Desktop/RN_training/App1/node_modules/react-native-video-quickblox/android/src/main/jniLibs"/></dataSet><dataSet config="release"><source path="/Users/admin/Desktop/RN_training/App1/node_modules/react-native-video-quickblox/android/src/release/jniLibs"/></dataSet></merger>
